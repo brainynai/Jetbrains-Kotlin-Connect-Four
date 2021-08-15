@@ -1,0 +1,1 @@
+This is a Kotlin project I tested for Jetbrains Academy that lets the user play Connect Four in the console. This was the first major Kotlin project I tested after teaching myself the language using Jetbrains' study materials.  
